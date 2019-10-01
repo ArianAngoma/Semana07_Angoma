@@ -1,0 +1,7 @@
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\bin\Debug\Linq.exe.config
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\bin\Debug\Linq.exe
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\bin\Debug\Linq.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\obj\Debug\Linq.exe
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\obj\Debug\Linq.pdb
+F:\Tecsup\Desarrollo de Aplicaciones Empresariales Avanzado\Laboratorio\Semana07\Linq\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
